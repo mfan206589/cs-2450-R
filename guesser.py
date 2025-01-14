@@ -6,6 +6,7 @@ def age_gesser():
 def random_guess():
     return random.randrange(15, 30)
 def User(name):
+    guesses = []
     guess = random_guess()
     print(f'Is this your age: {guess}')
     user_input = input('Y/N: ')
@@ -15,6 +16,7 @@ def User(name):
             return False
         elif user_input == 'N':
             print('Rats!')
+            guesses.append(guess)
             User(name)
             return True
         else:
