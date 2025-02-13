@@ -15,3 +15,6 @@ Date 1.30.25
 Date 2.4.25
     Subject: Architecture
     Learned: I learned about what achitecture is in relation to software development and how it is the function building blocks are for a program and how having an idea of an architecture helps prevent systems having conflicts with other ongoing "structures".
+Date 2.11.25
+    Subject: Impactful Presentation
+    Learned: I learned to properly create an impactful presentation and how to make your presentation more impactful to the listner which includes methods like how large items/bold/italicied items are emphasized and can be used to draw people attention to useful items in order to help people retain that information. Also less can be more when it comes to information density and that having too much data can harm your presentation. I also learned about how you can control the listener using methods to draw them to on opinion or another.
