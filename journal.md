@@ -18,3 +18,6 @@ Date 2.4.25
 Date 2.11.25
     Subject: Impactful Presentation
     Learned: I learned to properly create an impactful presentation and how to make your presentation more impactful to the listner which includes methods like how large items/bold/italicied items are emphasized and can be used to draw people attention to useful items in order to help people retain that information. Also less can be more when it comes to information density and that having too much data can harm your presentation. I also learned about how you can control the listener using methods to draw them to on opinion or another.
+Date 2.18.25
+    Subject: Presentation
+    Learned: My team presented the project and I feel that I fully understand exacly how to present a program to a group of people and how to word the presentation in a way that makes the project easy to understand and fully comprehend to people.
