@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.12">
+  <diagram name="Page-1" id="OkWZjJnXQjjepwIfzjWO">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="20oRFyxU0e2HirjhtSPu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oRFyxU0e2HirjhtSPu-1" target="20oRFyxU0e2HirjhtSPu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-1" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="20oRFyxU0e2HirjhtSPu-2" target="20oRFyxU0e2HirjhtSPu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-2" value="Web Server&lt;div&gt;(flask)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-4" value="Content&lt;div&gt;(html, CSS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-6" value="Data Store&lt;div&gt;TinyDB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="20oRFyxU0e2HirjhtSPu-2" target="20oRFyxU0e2HirjhtSPu-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="170" as="sourcePoint" />
+            <mxPoint x="680" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-8" value="http" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-9" value="Local&amp;nbsp;&lt;div&gt;Function&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="633" y="125" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20oRFyxU0e2HirjhtSPu-10" value="File System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
