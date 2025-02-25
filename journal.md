@@ -21,3 +21,6 @@ Date 2.11.25
 Date 2.18.25
     Subject: Presentation
     Learned: My team presented the project and I feel that I fully understand exacly how to present a program to a group of people and how to word the presentation in a way that makes the project easy to understand and fully comprehend to people.
+Date 2.25.25
+    Subject: Implementation
+    Learned: We talked about the various considerations alloted with working in a large group such as dependencies and dealing with conflicts through dealing with different opinion. We also looked at the software development process and looking at how we will go through these steps and how they apply to us as a team.
