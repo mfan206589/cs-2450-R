@@ -31,3 +31,6 @@ Week 7:
     Date 2.25.25
         Subject: Implementation
         Learned: We talked about the various considerations alloted with working in a large group such as dependencies and dealing with conflicts through dealing with different opinion. We also looked at the software development process and looking at how we will go through these steps and how they apply to us as a team.
+    Date 2.27.25
+        Subject: Pair Programing
+        Learned: We learned about XP and how the goal was to revolutionize how people code we also learned about how pair programing can let people be more efficent and how pair programing sets up a method in which we code with another person who will take a look at the code and look for bugs and errors.
