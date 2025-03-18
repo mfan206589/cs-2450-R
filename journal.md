@@ -34,3 +34,11 @@ Week 7:
     Date 2.27.25
         Subject: Pair Programing
         Learned: We learned about XP and how the goal was to revolutionize how people code we also learned about how pair programing can let people be more efficent and how pair programing sets up a method in which we code with another person who will take a look at the code and look for bugs and errors.
+Week 8:
+    Date 3.4.25
+        Subject: You Face Program
+        Learned: We began working witht the youface program I am slowly learning how youface works and what I need to do in order to modify the files and impliment my own code.
+Week 10:
+    Date 3.18.25
+        Subject: Quality Code
+        Learned: We are learning the elements of good quality code and that the standards of quality will change over time. We examind the various cost of low quality code from data provided during a video.
